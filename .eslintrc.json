@@ -19,16 +19,7 @@
         "react"
     ],
     "rules": {
-      "no-use-before-define":"off",
-      "no-console":"off",
-      "no-param-reassign":"off",
-      "import/no-unresolved":"off",
-      "no-unused-vars":"off",
-      "import/order":"off",
-      "react/jsx-filename-extension":"off",
-      "react/button-has-type":"off",
-      "react/prop-types":"off",
-      "react/destructuring-assignment":"off"
+      
 
     }
 }
