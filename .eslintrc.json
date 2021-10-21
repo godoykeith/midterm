@@ -19,6 +19,8 @@
         "react"
     ],
     "rules": {
+      "no-use-before-define":[22],
+      "no-console":"off",
      
 
     }
