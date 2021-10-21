@@ -19,7 +19,7 @@
         "react"
     ],
     "rules": {
-      "no-use-before-define":[2],
+      "no-use-before-define":[22],
       "no-console":"off",
       "no-param-reassign":"off",
       "import/no-unresolved":"off",
