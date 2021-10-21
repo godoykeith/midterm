@@ -28,9 +28,7 @@
       "react/jsx-filename-extension":"off",
       "react/button-has-type":"off",
       "react/prop-types":"off",
-      "react/destructuring-assignment":"off",
-      "jsx-a11y/alt-text":"off",
-      "no-undef":"off"
+      "react/destructuring-assignment":"off"
 
     }
 }
